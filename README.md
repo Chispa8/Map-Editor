@@ -7,15 +7,20 @@ Map Editor is a simple yet powerful tool that lets you paint backgrounds using p
 
 ### Key Features
 Pixel Painting: Create custom backgrounds by painting individual pixels on a grid-based canvas.
+
 Versatile Tools: Choose from a variety of tools, including brushes, erasers, fill, and more, to customize your designs.
+
 Export and Share: Save your creations as image files to use in your projects or share them with others.
+
 Simple Graphics Library: Developed in Java using the Simple Graphics library, ensuring smooth performance and compatibility across platforms.
+
 Work in Progress: Map Editor is still in development, with new features and improvements planned for future updates.
 
 ### Credits
 Developed by: Juan Carlos Poblete Uría
 
 Language: Java
+
 Library: Simple Graphics
 
 ### Note
