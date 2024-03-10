@@ -14,6 +14,7 @@ Work in Progress: Map Editor is still in development, with new features and impr
 
 ### Credits
 Developed by: Juan Carlos Poblete Uría
+
 Language: Java
 Library: Simple Graphics
 
